@@ -129,6 +129,7 @@
             }           
         </script>
         <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Είσοδος</button>
+        <button onclick="parent.location='dbconnect.jsp'" style="width:auto;">Πίνακας καταστημάτων</button>
 
         <div id="id01" class="modal">
   
